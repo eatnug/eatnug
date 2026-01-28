@@ -28,10 +28,6 @@ Running experiments at **[Team Attention](https://github.com/team-attention)** a
 * 💹 **The Terminal X** - AI-powered financial research platform (NYC)
 * 🏥 **Doctornow** - Co-founded Korea's #1 telemedicine platform
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/eatnug)
-
 ## Connect
 
 [![Blog](https://img.shields.io/badge/-thirdcommit.com-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://thirdcommit.com)

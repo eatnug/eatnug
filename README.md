@@ -16,7 +16,7 @@ Interested in frontier tech. AI, robotics, whatever's next. Strong believer in A
 
 * 🗣️ **[JustSayIt](https://github.com/eatnug/JustSayIt)** - Local speech-to-text. Open source models work fine. Why pay for wrappers?
 * 📝 **[JustViewer](https://github.com/eatnug/JustViewer)** - Lightweight doc viewer for markdown, JSON, YAML, etc. No bloated IDE needed.
-* 🤖 **[Code Squad](https://github.com/team-attention/code-squad)** - VSCode extension for parallel AI coding agents.
+* 🤖 **[Code Squad](https://github.com/team-attention/code-squad)** - VSCode extension + CLI for parallel AI coding. Isolated worktrees, inline feedback, multi-agent sessions.
 * 🌱 **[Spets](https://github.com/eatnug/spets)** - SDD Executor. Coming soon.
 
 ## What I'm Doing

@@ -14,8 +14,8 @@ Interested in frontier tech. AI, robotics, whatever's next. Strong believer in A
 
 ## Projects
 
-* 🗣️ **[Nobs Whisper](https://github.com/eatnug/nobs-whisper)** - Local speech-to-text. Open source models work fine. Why pay for wrappers?
-* 📝 **[Nobs Editor](https://github.com/eatnug/nobs-editor)** - Lightweight doc viewer for markdown, JSON, YAML, etc. No bloated IDE needed.
+* 🗣️ **[Nobs Whisper](https://github.com/team-attention/nobs-whisper)** - Local speech-to-text. Open source models work fine. Why pay for wrappers?
+* 📝 **[Nobs Editor](https://github.com/team-attention/nobs-editor)** - Lightweight doc viewer for markdown, JSON, YAML, etc. No bloated IDE needed.
 * 🤖 **[Code Squad](https://github.com/team-attention/code-squad)** - VSCode extension + CLI for parallel AI coding. Isolated worktrees, inline feedback, multi-agent sessions.
 * 🌱 **[Spets](https://github.com/eatnug/spets)** - SDD Executor. Coming soon.
 

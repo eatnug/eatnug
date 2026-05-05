@@ -14,10 +14,12 @@ Interested in frontier tech. AI, robotics, whatever's next. Strong believer in A
 
 ## Projects
 
+* 🌊 **[Tide](https://github.com/team-attention/tide)** - Native macOS workspace where humans and coding agents share Terminal, Editor, Diff, and Browser panes.
+* 🧭 **[Krow](https://github.com/eatnug/krow)** - State-machine workflow harness for coding agents. Turns broad repo work into explicit phases, durable state, and machine-readable signals.
+* 🧠 **[Slice](https://github.com/eatnug/slice)** - CLI-first runtime for agent-readable personal memory. Small source slices, entity links, collected views, and lifecycle plugins in a plain git repo.
 * 🗣️ **[Nobs Whisper](https://github.com/team-attention/nobs-whisper)** - Local speech-to-text. Open source models work fine. Why pay for wrappers?
 * 📝 **[Nobs Editor](https://github.com/team-attention/nobs-editor)** - Lightweight doc viewer for markdown, JSON, YAML, etc. No bloated IDE needed.
 * 🤖 **[Code Squad](https://github.com/team-attention/code-squad)** - VSCode extension + CLI for parallel AI coding. Isolated worktrees, inline feedback, multi-agent sessions.
-* 🌱 **[Spets](https://github.com/eatnug/spets)** - SDD Executor. Coming soon.
 
 ## What I'm Doing
 
